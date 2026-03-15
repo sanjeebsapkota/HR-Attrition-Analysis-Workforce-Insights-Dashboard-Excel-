@@ -1,0 +1,2 @@
+# HR-Attrition-Analysis-Workforce-Insights-Dashboard-Excel-
+This project analyzes employee attrition using HR data from 1,470 employees. Using Microsoft Excel, the dataset was cleaned, transformed, and analyzed to identify workforce trends across departments, job roles, and demographic groups. An interactive dashboard with slicers was developed to monitor attrition KPIs and support HR decision-making.

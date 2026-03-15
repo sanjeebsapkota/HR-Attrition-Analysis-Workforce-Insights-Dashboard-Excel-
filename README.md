@@ -107,6 +107,6 @@ Based on the analysis, organizations may consider the following actions:
 ---
 
 ## Author
-**Prashant Nyaupane**
+**Sanjeeb Sapkota**
 
 Aspiring **Data / Business Analyst** focused on turning data into actionable insights using tools such as **Excel, SQL, and Python**.
